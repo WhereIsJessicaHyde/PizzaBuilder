@@ -1,0 +1,24 @@
+{
+  "name": "pizza-builder",
+  "version": "1.0.0",
+  "description": "Es un programa que agrega ingredientes a una pizza y les añade un precio",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WhereIsJessicaHyde/PizzaBuilder.git"
+  },
+  "author": "where ist yessica hyde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WhereIsJessicaHyde/PizzaBuilder/issues"
+  },
+  "homepage": "https://github.com/WhereIsJessicaHyde/PizzaBuilder#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^4.0.1",
+    "gulp-watch": "^5.0.1"
+  }
+}
